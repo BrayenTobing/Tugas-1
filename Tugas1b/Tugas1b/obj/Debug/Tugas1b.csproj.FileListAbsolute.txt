@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas1b\Tugas1b\bin\Debug\Tugas1b.exe
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas1b\Tugas1b\bin\Debug\Tugas1b.pdb
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas1b\Tugas1b\obj\Debug\Tugas1b.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas1b\Tugas1b\obj\Debug\Tugas1b.exe
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas1b\Tugas1b\obj\Debug\Tugas1b.pdb
