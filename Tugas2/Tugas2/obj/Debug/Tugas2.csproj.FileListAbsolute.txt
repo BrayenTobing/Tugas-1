@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\obj\Debug\Tugas2.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\obj\Debug\Tugas2.MainForm.resources
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\obj\Debug\Tugas2.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+C:\Users\acer\Documents\SharpDevelop Projects\Tugas2\Tugas2\obj\Debug\Tugas2.pdb
